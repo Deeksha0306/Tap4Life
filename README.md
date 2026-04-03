@@ -79,10 +79,13 @@ npm run start
 ```
 
 ## 📸 Screenshots
-📱 Mobile application (planned)
-⌚ Integration with smart wearables (Apple Watch, etc.)
-🤖 AI-based emergency detection (fall detection, health anomalies)
-📡 Real-time tracking dashboard for emergency responders
+- 📱 Mobile application (planned)
+- ⌚ Integration with smart wearables (Apple Watch, etc.)
+- 🤖 AI-based emergency detection (fall detection, health anomalies)
+- 📡 Real-time tracking dashboard for emergency responders
+- ![Register](screenshots/sRegister.png)
+- ![Dashboard](screenshots/sDashboard1.png)
+- ![Medical Card](screenshots/sDashboard2.png)
 
 
 
@@ -91,8 +94,8 @@ Tap4Life aims to become a reliable first-response system that bridges the gap be
 
 
 ## 👥 Team
-Team Name: Tap4Life
-Built with a focus on simplicity, speed, and real-world impact.
+- Team Name: Tap4Life
+- Built with a focus on simplicity, speed, and real-world impact.
 
 
 ## ⚠️ Disclaimer
@@ -105,5 +108,5 @@ This project is a prototype and may not fully replace official emergency service
 
 If you face any issues running the project, feel free to:
 
-Check dependencies
-Reinstall node modules / Python packages
+- Kindly Check dependencies
+- Reinstall node modules / Python packages
